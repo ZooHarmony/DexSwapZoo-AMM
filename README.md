@@ -7,7 +7,8 @@ Decentralized Protocol Optimizer for Multiple Exchanges
 <p align="center">
  <img src="https://github.com/Agin-DropDisco/HARMONY_ONE/blob/main/DATA-DIAGRAM.png">
  </P>
-
+ 
+ 
 ### User Workflow
 <p align="center">
  <img src="https://github.com/Agin-DropDisco/HARMONY_ONE/blob/main/flow_staker%402x.png">
