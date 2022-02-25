@@ -6157,7 +6157,7 @@ detect-port-alt@1.1.6:
 
 "dexswap-core@git://github.com/Agin-DropDisco/dexs-factory.git#a5":
   version "0.1.6"
-  resolved "git://github.com/Agin-DropDisco/dexs-factory.git#51c4f8eb0a89d82465c7d5e362acdf6fdd1cbb43"
+  resolved "git://github.com/Agin-DropDisco/dexs-factory.git#13af21c9273668a0156c48eb12f403ac495566c5"
   dependencies:
     "@harmony-js/core" "^0.1.57"
     "@truffle/hdwallet-provider" "^1.4.0"
@@ -6167,13 +6167,13 @@ detect-port-alt@1.1.6:
 
 "dexswap-periphery@git://github.com/Agin-DropDisco/dexs-router.git#a5":
   version "0.3.4"
-  resolved "git://github.com/Agin-DropDisco/dexs-router.git#848855dccab62c7eb59a42e880b3ecfe389ef306"
+  resolved "git://github.com/Agin-DropDisco/dexs-router.git#a5ed8c8565799ad0511591d79bc197877b343443"
   dependencies:
     "@truffle/hdwallet-provider" "^1.4.0"
 
-"dexswap-sdk@git://github.com/Agin-DropDisco/dexs-sdk.git#a5":
+"dexswap-sdk@git://github.com/Agin-DropDisco/dexs-sdk.git#a7":
   version "0.1.1"
-  resolved "git://github.com/Agin-DropDisco/dexs-sdk.git#45d12a292e04b2a966976a5dfddd9bbd86fada22"
+  resolved "git://github.com/Agin-DropDisco/dexs-sdk.git#55c1ef835fcee988eab013f38da9849dbb9f25d5"
   dependencies:
     "@makerdao/multicall" "^0.11.0"
     big.js "^5.2.2"

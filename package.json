@@ -1,7 +1,7 @@
 {
-  "name": "dexswap-dapp",
+  "name": "dexswapzoo",
   "version": "1.0.0-beta.2",
-  "description": "DexSwap Decentralized Application",
+  "description": "DexSwapZoo Decentralized Application",
   "devDependencies": {
     "@apollo/client": "^3.3.13",
     "@ethersproject/experimental": "^5.0.10",
@@ -125,7 +125,7 @@
     "@fontsource/exo": "^4.4.5",
     "@fontsource/roboto": "^4.4.5",
     "add": "^2.0.6",
-    "dexswap-sdk": "git://github.com/Agin-DropDisco/dexs-sdk.git#a5",
+    "dexswap-sdk": "git://github.com/Agin-DropDisco/dexs-sdk.git#a7",
     "dexswap-core": "git://github.com/Agin-DropDisco/dexs-factory.git#a5",
     "dexswap-periphery": "git://github.com/Agin-DropDisco/dexs-router.git#a5",
     "query-string": "^6.13.8",

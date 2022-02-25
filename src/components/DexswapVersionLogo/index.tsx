@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components/macro'
-import logoImage from '../../assets/svg/dexswap_orange.svg'
+import logoImage from '../../assets/images/DexSwapZoo.png'
+
 
 const Logo = styled.img.attrs({ src: logoImage })`
   height: 25px;

@@ -416,6 +416,7 @@ body::-webkit-scrollbar {
 
 .Toastify__toast-container--top-right {
   right: 3em !important;
+  top: 5em !important;
 }
 .dexswap-pagination {
   list-style: none;

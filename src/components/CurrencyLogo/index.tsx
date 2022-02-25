@@ -4,7 +4,7 @@ import Skeleton from 'react-loading-skeleton'
 import styled from 'styled-components/macro'
 
 import EthereumLogo from '../../assets/images/ethereum-logo.jpg'
-import xDEXSLogo from '../../assets/svg/dexswap_orange.svg'
+import xDEXSLogo from '../../assets/images/DexSwapZoo.png'
 import HarmonyLogo from '../../assets/images/harmony.webp'
 import { useActiveWeb3React } from '../../hooks'
 import useHttpLocations from '../../hooks/useHttpLocations'

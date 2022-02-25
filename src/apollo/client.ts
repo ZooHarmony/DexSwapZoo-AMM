@@ -2,7 +2,7 @@ import { ApolloClient, InMemoryCache, NormalizedCacheObject } from '@apollo/clie
 import { ChainId } from 'dexswap-sdk'
 
 export const defaultSubgraphClient = new ApolloClient({
-  uri: 'https://graph.t.hmny.io/subgraphs/name/agin-dropdisco/harmony_agin',
+  uri: 'https://graph.t.hmny.io/subgraphs/name/dexswapzoo/amm',
   cache: new InMemoryCache()
 })
 

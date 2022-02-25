@@ -310,7 +310,7 @@ export const BLOCKED_PRICE_IMPACT_NON_EXPERT: Percent = new Percent(JSBI.BigInt(
 // used to ensure the user doesn't send so much ETH so they end up with <.01
 export const MIN_ETH: JSBI = JSBI.exponentiate(JSBI.BigInt(10), JSBI.BigInt(16)) // .01 ETH
 
-export const DEFAULT_TOKEN_LIST = 'https://zooharmony.mypinata.cloud/ipfs/QmWwKqmhFk25qsRXVJAry1mcNgqHyHGa3wBieogirH5srh'
+export const DEFAULT_TOKEN_LIST = 'https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/dexswap-polygonXharmony.json'
 
 export const ZERO_USD = CurrencyAmount.usd('0')
 

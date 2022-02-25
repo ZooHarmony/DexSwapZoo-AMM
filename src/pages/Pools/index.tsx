@@ -238,7 +238,7 @@ export default function Pools() {
             <AutoColumn gap="md">
               <RowBetween>
                 <TYPE.body fontWeight={600} letterSpacing="2px" lineHeight="8px" color="#68698b" textAlign="center" width="100%" fontSize="12px">
-                POWERED BY  <span role="img" aria-label="love"></span> DEXSWAP PROJECT
+                POWERED BY  <span role="img" aria-label="love"></span> ZOOHARMONY
                 </TYPE.body>
               </RowBetween>
             </AutoColumn>
